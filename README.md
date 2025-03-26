@@ -1,6 +1,7 @@
 # AI Voice Visualization Animations
 
 This project provides a set of dynamic, responsive animations for visualizing different AI voice interaction states. The animations use a dot matrix visualization with smooth transitions between states to create an engaging user experience. You can use the animations in your own projects by integrating the `animation_settings.py` and `transitions.py` modules.
+
 <img width="1379" alt="Screenshot 2025-03-26 at 8 59 48 AM" src="https://github.com/user-attachments/assets/2273825c-6bff-4178-8821-f776f7c2a66b" />
 
 This is a a free open source project for anyone wanting to animmate speech to speech AI applications in python. Its not optimized for production use and is a work in progress. You can support the project by starring the repo or following [Bitforge Dynamics](www.bitforgedynamics.com) on [X](https://x.com/bitforgeagi) 
@@ -60,22 +61,8 @@ or
 python3 -m voice_widget_example
 ```
 
-You may use these designs for any purpose, granted you credit the authors
+You may use these designs for any purpose, granted you credit the author Brock Daily.
 
-Open Sourced by Brock Daily &
-
-██████╗ ██╗████████╗███████╗ ██████╗ ██████╗  ██████╗ ███████╗   
-██╔══██╗██║╚══██╔══╝██╔════╝██╔═══██╗██╔══██╗██╔════╝ ██╔════╝   
-██████╔╝██║   ██║   █████╗  ██║   ██║██████╔╝██║  ███╗█████╗     
-██╔══██╗██║   ██║   ██╔══╝  ██║   ██║██╔══██╗██║   ██║██╔══╝     
-██████╔╝██║   ██║   ██║     ╚██████╔╝██║  ██║╚██████╔╝███████╗   
-╚═════╝ ╚═╝   ╚═╝   ╚═╝      ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝   
-                                                                 
-██████╗ ██╗   ██╗███╗   ██╗ █████╗ ███╗   ███╗██╗ ██████╗███████╗
-██╔══██╗╚██╗ ██╔╝████╗  ██║██╔══██╗████╗ ████║██║██╔════╝██╔════╝
-██║  ██║ ╚████╔╝ ██╔██╗ ██║███████║██╔████╔██║██║██║     ███████╗
-██║  ██║  ╚██╔╝  ██║╚██╗██║██╔══██║██║╚██╔╝██║██║██║     ╚════██║
-██████╔╝   ██║   ██║ ╚████║██║  ██║██║ ╚═╝ ██║██║╚██████╗███████║
-╚═════╝    ╚═╝   ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝ ╚═════╝╚══════╝
+Open Sourced by [Bitforge Dynamics](www.bitforgedynamics.com)
 
 
